@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**MoXiaoXi233/MoXiaoXi233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm MoXiify,
+The name **MoXiify** comes from **moxi + ify**.
+MoXiify is an individual (person), not a company, brand, or service.
 
-Here are some ideas to get you started:
+I am a technology enthusiast and personal blogger interested in
+programming, web development, game development, graphic design, and related fields.
+I enjoy exploring technology in a flexible, curiosity-driven way 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I currently maintain **MoXiify’s Blog**, a personal blog for technical notes,
+learning experiences, and casual thoughts.
+
+🌐 Website: https://www.moxiify.cn  
+📓 Blog: https://note.moxiify.cn
